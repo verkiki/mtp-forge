@@ -30,7 +30,7 @@ The tool does not guess how an unknown architecture stores MTP. Extraction suppo
 Linux/macOS:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mtp-forge.git
+git clone https://github.com/verkiki/mtp-forge.git
 cd mtp-forge
 python3 -m venv .venv
 source .venv/bin/activate
@@ -41,7 +41,7 @@ python -m pip install -e .
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/mtp-forge.git
+git clone https://github.com/verkiki/mtp-forge.git
 cd mtp-forge
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
