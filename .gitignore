@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Model artifacts and extraction work
+*.gguf
+*.safetensors
+*.imatrix
+*.bin
+*.pt
+*.pth
+*.ckpt
+.*.mtp-forge-work/
+output/
+outputs/
+tmp/
+temp/
