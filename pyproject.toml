@@ -27,8 +27,8 @@ dependencies = ["numpy>=1.26,<3"]
 mtp-forge = "mtp_forge.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/mtp-forge"
-Issues = "https://github.com/YOUR_USERNAME/mtp-forge/issues"
+Homepage = "https://github.com/verkiki/mtp-forge"
+Issues = "https://github.com/verkiki/mtp-forge/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
